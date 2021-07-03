@@ -1,0 +1,7 @@
+D:\02-looking for job\00-Project\27-LearnUnity3D-and-C#\Learn-Unity3D-and-C-Sharp\01-达内\02-代码手敲\SolutionBase\Day01\bin\Debug\Day01.exe.config
+D:\02-looking for job\00-Project\27-LearnUnity3D-and-C#\Learn-Unity3D-and-C-Sharp\01-达内\02-代码手敲\SolutionBase\Day01\bin\Debug\Day01.exe
+D:\02-looking for job\00-Project\27-LearnUnity3D-and-C#\Learn-Unity3D-and-C-Sharp\01-达内\02-代码手敲\SolutionBase\Day01\bin\Debug\Day01.pdb
+D:\02-looking for job\00-Project\27-LearnUnity3D-and-C#\Learn-Unity3D-and-C-Sharp\01-达内\02-代码手敲\SolutionBase\Day01\obj\Debug\Day01.csprojAssemblyReference.cache
+D:\02-looking for job\00-Project\27-LearnUnity3D-and-C#\Learn-Unity3D-and-C-Sharp\01-达内\02-代码手敲\SolutionBase\Day01\obj\Debug\Day01.csproj.CoreCompileInputs.cache
+D:\02-looking for job\00-Project\27-LearnUnity3D-and-C#\Learn-Unity3D-and-C-Sharp\01-达内\02-代码手敲\SolutionBase\Day01\obj\Debug\Day01.exe
+D:\02-looking for job\00-Project\27-LearnUnity3D-and-C#\Learn-Unity3D-and-C-Sharp\01-达内\02-代码手敲\SolutionBase\Day01\obj\Debug\Day01.pdb
